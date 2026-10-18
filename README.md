@@ -2,7 +2,7 @@
 
 BCA student who builds things in Python and TypeScript. I like projects where I can test an idea properly, ship it, and see if it actually works. Series 5 certified. Open to junior developer and fintech roles.
 
-🌐 Portfolio: aman-portfolio-sable-chi.vercel.app 📫 Contact: amansngh127@example.com 
+📫 Contact: amansngh127@example.com 
 · LinkedIn : https://www.linkedin.com/in/aman-singh-53a9a0267/?
 
 Projects
