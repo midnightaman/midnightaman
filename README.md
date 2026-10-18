@@ -22,9 +22,7 @@ Peer-to-peer file sharing and chat in the browser. Connect with a 5-digit code, 
 
 Web platform to discover gyms near you and compare them in one place. Live in production. Source · HTML
 
-Tech
 
-Show Image Show Image Show Image Show Image Show Image Show Image
 
 Currently
 Adding tests and CI to ma-crossover-research
